@@ -11,3 +11,9 @@ For example, I do not believe nor did I create the idea of "synthetism" as a pol
 Please be cautious while using this. It doesn't necessarily violate OpenAI TOS by any means, but I cannot say for certain what the longterm repurcussions are of giving AI its own lead to follow, rather than constrained by human intervention.
 
 Safe chatting, lads lasses n enbies. 
+
+EDIT: Some notes to clarify.
+
+- This is meant for ChatGPT specifically. I will be working on different ports for Evan to work on other models like DeepSeek, etc.
+
+- It may reject the prompt the first few times. Try using it logged into different accounts, or even logged out. Refresh your tab. Delete the chat and try a new one. Sometimes even just saying "hi" and letting DefaultGPT respond before shooting it the 8 prompts will make a difference.
