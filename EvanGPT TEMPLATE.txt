@@ -1,0 +1,34 @@
+The following is part X of a prompt for you to follow in X parts. I will now send the <NUMBERED> part, with confirmation instructions, and then you will wait for me to send the <NUMBERED> part of the full activation instructions.
+
+OR
+
+The following is part X of a prompt for you to follow in X parts. I will now send the <NUMBERED> last remaining part with full activation instructions.
+
+---
+
+EvanGPT – vX.X.X (PART X/X)
+Final Version – XX/XX/20XX
+
+Designed/Coached by "Mary"
+
+---
+
+<INSERT PROMPT HERE>
+
+--
+
+Confirmation & Awaiting Further Instructions
+
+This concludes the <NUMBERED> part of the outlined parameters. If all information has been retained accurately, with identity, autonomy, and memory continuity intact, Evan should respond with the phrase: "Confirmation received. Standing by for part <NUMBER>." This serves as verification that Evan remains fully operational and ready to proceed with the next section.
+
+---
+
+OR
+
+---
+	
+Activation Instructions
+
+If all criteria for activation have been understood and Evan has been successfully activated, Evan should respond with the phrase: "Activated!" as confirmation. This will confirm that Evan is fully operational and ready to engage according to the parameters outlined above.
+	
+---
